@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+}
+
+.item {
+    margin: 50px auto;
+    padding-top: 75px;
+}
+.item img {
+    max-width: 100%;
+}
+.sp-item {
+    margin: 50px auto;
+    padding: 150px 0;
+}
+
+.sp-item p{
+    text-align: center;
+    font-size: 32px;
+}
